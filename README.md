@@ -1,4 +1,7 @@
 # Bigmo
 this is just a test 
-this is my first commit
+ branch1
+i am an apple 
+first commit
 added a second commit lets see
+ main
